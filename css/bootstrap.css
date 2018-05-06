@@ -168,7 +168,7 @@ a {
 }
 
 a:hover {
-  color: #0056b3;
+  color:rgba(184, 184, 184, 0.5);
   text-decoration: underline;
 }
 
